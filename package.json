@@ -1,0 +1,19 @@
+{
+  "name": "video-stream-application",
+  "version": "1.0.0",
+  "description": "a first approach on building a movie stream application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "movie",
+    "streaming",
+    "applcation"
+  ],
+  "author": "web dev from Ioannina",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
