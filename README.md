@@ -4,4 +4,5 @@
 
 Οδηγίες ανάπτυξης στο repo
 
-# Video-stream-Application
+το προτζεκτ τρεχει σε localhost 3000 με $ node app.js
+
